@@ -14,7 +14,7 @@ I'm not sure that any summary I give is going to be useful or accurate - specifi
 ## Interaction preferences
 I aim for approachability - please don't wait for a good reason to reach out.  Sometimes my calendar appears full, and it may take a few hours for me to respond, but casual or half-formed questions or topics brought up early are MUCH preferred over complete, formal documents weeks later.  We may have to do both, but let's find out cheaply.
 
-I care more about learning and improving my mental models of how things work, than I do about being right or getting my way.  The most valuable thing you can do is to point out something I've missed, and the second-most is to force me to explain my reasoning so we can cooperatively figure out why I'm wrong.  This is close to (Crocker's Rule)[https://www.lesswrong.com/tag/crockers-rules], but I'm not actually perfect at it, so a little bit of gentleness is appreciated.
+I care more about learning and improving my mental models of how things work, than I do about being right or getting my way.  The most valuable thing you can do is to point out something I've missed, and the second-most is to force me to explain my reasoning so we can cooperatively figure out why I'm wrong.  This is close to [Crocker's Rule](https://www.lesswrong.com/tag/crockers-rules), but I'm not actually perfect at it, so a little bit of gentleness is appreciated.
 
 Feedback is a gift.  If there's anything you want to see more or less from me, please let me know!
 <!---
